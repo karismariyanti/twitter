@@ -31,12 +31,14 @@ R-Script ini digunakan untuk mencari tweet di timenline suatu Akun, cukup menuli
 #### 3. Streaming Tweet (Streaming.r)
 R-Script ini bertujuan mengabil data secara real-time dari twitter. 
 
-#### 4. Mengambil Data Follower/Following Suatu Akun
+#### 4. Mengambil Data Follower/Following Suatu Akun (SOON)
 R-Script ini bertujuan untuk mengambil data follower/Following dari suatu akun. 
 
-#### 5. Mengambil Data Trend
+#### 5. Mengambil Data Trend (SOON)
 R-Script ini bertujuan untuk mengambil data trend di suatu area. 
 
+#### 5. Mengambil Tweet yang disukai oleh suatu Akun (SOON)
+R-Script ini bertujuan untuk mengambil tweet yang disukai oleh suatu akun. 
 
 ## Handling Error
 
