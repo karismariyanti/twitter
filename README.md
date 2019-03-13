@@ -10,9 +10,14 @@ Install library rtweet, untuk menginstall library rtweet:
 ```
 install.package('rtweet')
 ```
-Setting Auth :
+Setting Auth (Diisi Dengan yang ada di Twitter App:
 ```
-
+token <- create_token(
+  app = "Nama Aplikasi",
+  consumer_key = "3eQe8zMFZMMR0V*****",
+  consumer_secret = "iBAW9bi7ztCQtFi1VPtHVYowJ353mwGg0wZdw******",
+  access_token = "984196360864870400-aJUbste0G7qYqbRVM8z*********",
+  access_secret = "L4ITUFQ5eNTPg5DGVPz0HjpMSYEdJgL********")
 ```
 
 ## Working With The Code
