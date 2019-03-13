@@ -30,7 +30,7 @@ R-Script ini bertujuan mengabil data secara real-time dari twitter.
 R-Script ini bertujuan untuk mengambil data follower/Following dari suatu akun. 
 
 #### 5. Mengambil Data Trend
-R-Script ini bertujuan untuk mengambil data trend di suatu daerah. 
+R-Script ini bertujuan untuk mengambil data trend di suatu area. 
 
 
 ## Handling Error
@@ -38,4 +38,5 @@ R-Script ini bertujuan untuk mengambil data trend di suatu daerah.
 
 
 ## Learn More
+* [Apriandito's Medium](https://medium.com/@apriandito)
 
