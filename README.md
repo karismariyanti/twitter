@@ -28,7 +28,7 @@ R-Script ini digunakan untuk mengambil tweet berdasarkan keyword, cukup menggant
 #### 2. Mengambil Tweet dari Timeline Akun (Usertimeline.r)
 R-Script ini digunakan untuk mencari tweet di timenline suatu Akun, cukup menuliskan dengan nama akun yang akan dicari, dan jumlah tweetnya. 
 
-#### 3. Streaming Tweet
+#### 3. Streaming Tweet (Streaming.r)
 R-Script ini bertujuan mengabil data secara real-time dari twitter. 
 
 #### 4. Mengambil Data Follower/Following Suatu Akun
