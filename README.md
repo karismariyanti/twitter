@@ -4,10 +4,18 @@ Proses ini membutuhkan Twiter API App, Bila belum memiliki Twitter App. Silahkan
 Untuk tutorial pembuatan Twitter API App dapat dilihat di [Sini](https://docs.inboundnow.com/guide/create-twitter-application/). 
 Seluruh R-Script ini menggunakan library rtweet, dokumentasi lengkap dapat dilihat di [rtweet](https://github.com/mkearney/rtweet).
 
-Untuk Menginstall Library rtweet:
+## Sebelum Memulai
+
+Install Library Rtweet. Untuk Menginstall Library Rtweet:
 ```
 install.package('rtweet')
 ```
+Setting Auth :
+```
+
+```
+
+## Working With The Code
 
 #### 1. Mencari Tweet berdasarkan Keyword. 
 R-Script ini digunakan untuk mencari tweet berdasarkan tweet, cukup mengganti Keyword yang akan dicari, jumlah tweet, dan apakah tweet yang diambil mengandung retweet atau tidak. 
@@ -20,4 +28,10 @@ R-Script ini bertujuan mengabil data secara real-time dari twitter.
 
 #### 4. Mengambil Data Follower/Following Suatu Akun
 R-Script ini bertujuan untuk mengambil data follower/Following dari suatu akun. 
+
+
+## Handling Error
+
+
+## Learn More
 
