@@ -17,10 +17,10 @@ Setting Auth :
 
 ## Working With The Code
 
-#### 1. Mencari Tweet berdasarkan Keyword. 
+#### 1. Mencari Tweet berdasarkan Keyword
 R-Script ini digunakan untuk mencari tweet berdasarkan tweet, cukup mengganti Keyword yang akan dicari, jumlah tweet, dan apakah tweet yang diambil mengandung retweet atau tidak. 
 
-#### 2. Mencari Tweet berdasarkan Nama Akun. 
+#### 2. Mencari Tweet berdasarkan Nama Akun
 R-Script ini digunakan untuk mencari tweet berdasarkan Nama Akun, cukup mengganti Keyword dengan nama akun yang akan dicari, dan jumlah tweetnya. 
 
 #### 3. Streaming Tweet
