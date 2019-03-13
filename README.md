@@ -4,7 +4,7 @@ Proses ini membutuhkan Twiter API App, Bila belum memiliki Twitter App. Silahkan
 Untuk tutorial pembuatan Twitter API App dapat dilihat di [Sini](https://docs.inboundnow.com/guide/create-twitter-application/). 
 Seluruh R-Script ini menggunakan library rtweet, dokumentasi lengkap dapat dilihat di [rtweet](https://github.com/mkearney/rtweet).
 
-Untuk Menginstall Library rtweet
+Untuk Menginstall Library rtweet:
 ```
 install.package('rtweet')
 ```
