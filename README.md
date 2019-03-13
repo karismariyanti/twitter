@@ -22,11 +22,11 @@ token <- create_token(
 
 ## Working With The Code
 
-#### 1. Mencari Tweet berdasarkan Keyword (Keyword.r)
-R-Script ini digunakan untuk mencari tweet berdasarkan tweet, cukup mengganti Keyword yang akan dicari, jumlah tweet, dan apakah tweet yang diambil mengandung retweet atau tidak. 
+#### 1. Mengambil Tweet berdasarkan Keyword (Keyword.r)
+R-Script ini digunakan untuk mengambil tweet berdasarkan keyword, cukup mengganti Keyword yang akan dicari, jumlah tweet, dan apakah tweet yang diambil mengandung retweet atau tidak. 
 
-#### 2. Mencari Tweet berdasarkan Nama Akun
-R-Script ini digunakan untuk mencari tweet berdasarkan Nama Akun, cukup mengganti Keyword dengan nama akun yang akan dicari, dan jumlah tweetnya. 
+#### 2. Mengambil Tweet dari Timeline Akun (Usertimeline.r)
+R-Script ini digunakan untuk mencari tweet di timenline suatu Akun, cukup menuliskan dengan nama akun yang akan dicari, dan jumlah tweetnya. 
 
 #### 3. Streaming Tweet
 R-Script ini bertujuan mengabil data secara real-time dari twitter. 
