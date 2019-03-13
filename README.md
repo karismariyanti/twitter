@@ -22,7 +22,7 @@ token <- create_token(
 
 ## Working With The Code
 
-#### 1. Mencari Tweet berdasarkan Keyword
+#### 1. Mencari Tweet berdasarkan Keyword (Keyword.r)
 R-Script ini digunakan untuk mencari tweet berdasarkan tweet, cukup mengganti Keyword yang akan dicari, jumlah tweet, dan apakah tweet yang diambil mengandung retweet atau tidak. 
 
 #### 2. Mencari Tweet berdasarkan Nama Akun
