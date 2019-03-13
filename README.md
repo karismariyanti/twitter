@@ -6,7 +6,7 @@ Seluruh R-Script ini menggunakan library rtweet, dokumentasi lengkap dapat dilih
 
 ## Sebelum Memulai
 
-Install Library Rtweet. Untuk Menginstall Library Rtweet:
+Install library rtweet, untuk menginstall library rtweet:
 ```
 install.package('rtweet')
 ```
@@ -29,8 +29,12 @@ R-Script ini bertujuan mengabil data secara real-time dari twitter.
 #### 4. Mengambil Data Follower/Following Suatu Akun
 R-Script ini bertujuan untuk mengambil data follower/Following dari suatu akun. 
 
+#### 5. Mengambil Data Trend
+R-Script ini bertujuan untuk mengambil data trend di suatu daerah. 
+
 
 ## Handling Error
+
 
 
 ## Learn More
