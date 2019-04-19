@@ -41,7 +41,7 @@ R-Script ini bertujuan untuk mengambil data trend di suatu area.
 R-Script ini bertujuan untuk mengambil tweet yang disukai oleh suatu akun. 
 
 #### 6. Cleaning Twitter Text Data (Cleaning.r)
-R-Script ini bertujuan untuk mengambil tweet yang disukai oleh suatu akun. 
+R-Script ini bertujuan untuk membersihkan (pre-processing) data text dari tweet.
 
 ## Handling Error
 
