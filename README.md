@@ -40,6 +40,9 @@ R-Script ini bertujuan untuk mengambil data trend di suatu area.
 #### 5. Mengambil Tweet yang disukai oleh suatu Akun (SOON)
 R-Script ini bertujuan untuk mengambil tweet yang disukai oleh suatu akun. 
 
+#### 6. Cleaning Twitter Text Data (Cleaning.r)
+R-Script ini bertujuan untuk mengambil tweet yang disukai oleh suatu akun. 
+
 ## Handling Error
 
 
